@@ -5,3 +5,15 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 cloudnas/clouddrive2:latest
+advplyr/audiobookshelf:latest
+iyuucn/iyuuplus-dev:latest
+jellyfin/jellyfin:latest
+jxxghp/moviepilot:latest
+bitwardenrs/server:latest
+vital987/chrome-novnc:latest
+lovechen/embyserver:latest
+6053537/portainer-ce:latest
+linuxserver/qbittorrent:latest
+hectorqin/reader:latest
+linuxserver/transmission:latest
+mzz2017/v2raya:latest
