@@ -17,3 +17,4 @@ linuxserver/qbittorrent:latest
 hectorqin/reader:latest
 linuxserver/transmission:latest
 mzz2017/v2raya:latest
+xiaoyaliu/alist:latest
