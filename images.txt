@@ -21,3 +21,4 @@ xiaoyaliu/alist:latest
 amilys/embyserver:latest
 alone/chrome-novnc:latest
 oaooa/pichome:latest
+metatube/metatube-server:latest
