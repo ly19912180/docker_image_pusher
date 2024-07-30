@@ -14,7 +14,7 @@ vital987/chrome-novnc:latest
 lovechen/embyserver:latest
 6053537/portainer-ce:latest
 linuxserver/qbittorrent:latest
-hectorqin/reader:latest
+
 linuxserver/transmission:latest
 mzz2017/v2raya:latest
 xiaoyaliu/alist:latest
@@ -22,3 +22,4 @@ amilys/embyserver:latest
 alone/chrome-novnc:latest
 oaooa/pichome:latest
 metatube/metatube-server:latest
+hectorqin/reader:latest
