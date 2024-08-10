@@ -24,3 +24,4 @@ oaooa/pichome:latest
 metatube/metatube-server:latest
 hectorqin/reader:latest
 zhaojun1998/zfile:latest
+cloudreve/cloudreve:latest
