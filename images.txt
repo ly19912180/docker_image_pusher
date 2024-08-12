@@ -26,3 +26,4 @@ hectorqin/reader:latest
 zhaojun1998/zfile:latest
 cloudreve/cloudreve:latest
 onlyoffice/documentserver:latest
+nextcloud/all-in-one:latest
