@@ -3,13 +3,13 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
+jxxghp/moviepilot:latest
 cloudnas/clouddrive2:latest
 stonith404/pingvin-share:latest
 advplyr/audiobookshelf:latest
 --platform=linux/arm64 xiaoyaliu/alist
 iyuucn/iyuuplus-dev:latest
 jellyfin/jellyfin:latest
-jxxghp/moviepilot:latest
 bitwardenrs/server:latest
 vital987/chrome-novnc:latest
 lovechen/embyserver:latest
