@@ -1,5 +1,5 @@
 nginx
 #支持私库
-xhofe/alist:latest
+xhofe/alist:v3.37.3
 
 
