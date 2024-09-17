@@ -1,36 +1,5 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-#支持指定架构
-cloudreve/cloudreve:latest
-jxxghp/moviepilot:latest
-cloudnas/clouddrive2:latest
-stonith404/pingvin-share:latest
-advplyr/audiobookshelf:latest
---platform=linux/arm64 xiaoyaliu/alist
-iyuucn/iyuuplus-dev:latest
-jellyfin/jellyfin:latest
-bitwardenrs/server:latest
-vital987/chrome-novnc:latest
-lovechen/embyserver:latest
-6053537/portainer-ce:latest
-linuxserver/qbittorrent:latest
-kodcloud/kodbox:latest
-linuxserver/transmission:latest
-mzz2017/v2raya:latest
-xiaoyaliu/alist:latest
-amilys/embyserver:latest
-alone/chrome-novnc:latest
-oaooa/pichome:latest
-metatube/metatube-server:latest
-hectorqin/reader:latest
-zhaojun1998/zfile:latest
-onlyoffice/documentserver:latest
-nextcloud/all-in-one:latest
-linuxserver/nextcloud:latest
-evil0ctal/douyin_tiktok_download_api:latest
-alexta69/metube:latest
-mtlynch/picoshare:latest
 
 
