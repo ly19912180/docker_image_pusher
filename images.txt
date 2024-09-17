@@ -1,4 +1,4 @@
-xhofe/alist:v3.37.3-ffmpeg
+xhofe/alist:latest
 nginx
 #支持私库
 
