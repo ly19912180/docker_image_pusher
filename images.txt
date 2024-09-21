@@ -1,4 +1,4 @@
-xhofe/alist:latest
+advplyr/audiobookshelf:latest
 nginx
 #支持私库
 
