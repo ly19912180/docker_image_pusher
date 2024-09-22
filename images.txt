@@ -1,4 +1,4 @@
-advplyr/audiobookshelf:latest
+hectorqin/reader:latest
 nginx
 #支持私库
 
