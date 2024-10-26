@@ -1,4 +1,4 @@
-hectorqin/reader:latest
+cloudnas/clouddrive2:0.7.21
 nginx
 #支持私库
 
