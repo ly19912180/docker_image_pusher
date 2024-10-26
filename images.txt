@@ -1,4 +1,4 @@
-cloudnas/clouddrive2:0.7.21
+cloudnas/clouddrive2:latest
 nginx
 #支持私库
 
