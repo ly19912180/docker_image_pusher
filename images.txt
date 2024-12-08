@@ -1,5 +1,5 @@
 cloudnas/clouddrive2:latest
-
+jmal/jmalcloud:latest
 nginx
 #支持私库
 
