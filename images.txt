@@ -1,5 +1,4 @@
-cloudnas/clouddrive2:latest
-jmal/jmalcloud:latest
+jxxghp/moviepilot-v2:latest
 nginx
 #支持私库
 
