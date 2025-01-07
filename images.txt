@@ -1,5 +1,4 @@
-jxxghp/moviepilot-v2:latest
-nginx
+dyrnq/open-webui:latest
 #支持私库
 
 
