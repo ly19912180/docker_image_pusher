@@ -1,4 +1,4 @@
-dyrnq/open-webui:latest
+librechat/librechat-dev:latest
 #支持私库
 
 
