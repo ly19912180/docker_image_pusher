@@ -1,4 +1,4 @@
-librechat/librechat-dev:latest
+funcman/115pc:version-2.0.9.3.1
 #支持私库
 
 
