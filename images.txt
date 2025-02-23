@@ -1,3 +1,3 @@
-115pc:latest
+jxxghp/moviepilot:latest
 #支持私库
 
