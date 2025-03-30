@@ -1,4 +1,4 @@
-amilys/embyserver:beta
+itefuir/alist-strm:latest
 
 #支持私库
 
