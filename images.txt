@@ -1,3 +1,3 @@
-amilys/embyserver:beta
+uwang/115-strm:latest
 #支持私库
 
