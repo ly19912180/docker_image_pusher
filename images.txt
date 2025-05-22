@@ -1,3 +1,3 @@
-jxxghp/moviepilot-v2:latest
+bestzwei/libretv:latest
 #支持私库
 
