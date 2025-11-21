@@ -1,4 +1,3 @@
-docker pull w12725/emby:4.9.1.80
-bestzwei/libretv:latest
+w12725/emby:4.9.1.80
 #支持私库
 
