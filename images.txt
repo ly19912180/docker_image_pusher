@@ -1,3 +1,4 @@
+qq1582185982/bili-sync:latest
 linuxserver/msedge:latest
 aexus/solara-music:latest
 w12725/emby:4.9.1.80
