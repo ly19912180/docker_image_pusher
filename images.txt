@@ -1,3 +1,3 @@
-joeanamier/xhs-downloader:2.7-dev
+qq918652593/easy-vdl:latest
 #支持私库
 
