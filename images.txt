@@ -1,3 +1,4 @@
+amtoaer/bili-sync-rs:latest
 qq1582185982/bili-sync:latest
 linuxserver/msedge:latest
 aexus/solara-music:latest
