@@ -1,3 +1,4 @@
+linuxserver/msedge:latest
 aexus/solara-music:latest
 w12725/emby:4.9.1.80
 hectorqin/reader:openj9-latest
