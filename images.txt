@@ -1,4 +1,3 @@
-zhixinfang/nas-music:latest
-qq918652593/easy-vdl:latest
+chigusa/bililive-go:latest
 #支持私库
 
