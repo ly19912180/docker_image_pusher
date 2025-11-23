@@ -1,3 +1,4 @@
+zhixinfang/nas-music:latest
 qq918652593/easy-vdl:latest
 #支持私库
 
