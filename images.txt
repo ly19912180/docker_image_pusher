@@ -1,3 +1,2 @@
-openlistteam/openlist:beta-aio
+openlistteam/openlist:beta
 #支持私库
-
