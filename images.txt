@@ -1,2 +1,2 @@
-ghcr.io/decohererk/decotv:latest
+docker pull apache/kvrocks:latest
 #支持私库
