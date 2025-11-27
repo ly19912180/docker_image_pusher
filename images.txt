@@ -1,2 +1,2 @@
-zhaojun1998/zfile:latest
+ghcr.io/decohererk/decotv:latest
 #支持私库
