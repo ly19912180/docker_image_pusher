@@ -1,2 +1,3 @@
 joplin/server:latest
+foamzou/melody:latest
 #支持私库
