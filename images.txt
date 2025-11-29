@@ -1,2 +1,2 @@
-apache/kvrocks:latest
+joplin/server:latest
 #支持私库
