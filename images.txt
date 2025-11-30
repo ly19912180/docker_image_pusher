@@ -1,2 +1,2 @@
-vaultwarden/server:testing-debian
+postgres:15.15-trixie
 #支持私库
