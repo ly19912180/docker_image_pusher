@@ -1,2 +1,2 @@
-jeessy/ddns-go:latest
+jc21/nginx-proxy-manager:latest
 #支持私库
