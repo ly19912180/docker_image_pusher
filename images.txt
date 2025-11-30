@@ -1,4 +1,3 @@
-openlistteam/openlist:beta-aio
-joplin/server:latest
-foamzou/melody:latest
+p3terx/aria2-pro:latest
+p3terx/ariang:latest
 #支持私库
