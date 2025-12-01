@@ -1,2 +1,2 @@
-cturra/ntp:latest
+joplin/server:arm64-3.4.3
 #支持私库
