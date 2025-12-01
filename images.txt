@@ -1,2 +1,2 @@
-postgres:15.15-trixie
+cturra/ntp:latest
 #支持私库
