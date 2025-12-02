@@ -1,2 +1,2 @@
-portainer/portainer-ce:latest
+postgres:latest
 #支持私库
