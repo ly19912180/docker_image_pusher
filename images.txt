@@ -1,2 +1,2 @@
-joplin/server:arm64-3.4.3
+neosmemo/memos:canary
 #支持私库
