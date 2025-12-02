@@ -1,2 +1,2 @@
-louislam/dockge:nightly
+portainer/portainer-ce:latest
 #支持私库
