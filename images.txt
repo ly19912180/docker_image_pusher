@@ -1,2 +1,2 @@
-neosmemo/memos:canary
+gdy666/lucky:latest
 #支持私库
