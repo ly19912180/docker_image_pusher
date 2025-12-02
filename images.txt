@@ -1,2 +1,3 @@
+lampon/omnibox:latest
 postgres:13
 #支持私库
