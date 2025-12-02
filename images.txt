@@ -1,2 +1,2 @@
-gdy666/lucky:latest
+louislam/dockge:nightly
 #支持私库
