@@ -1,2 +1,2 @@
-postgres:latest
+postgres:13
 #支持私库
