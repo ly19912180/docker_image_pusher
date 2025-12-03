@@ -1,3 +1,2 @@
-lampon/omnibox:latest
-postgres:13
+portainer/portainer-ce:2.36.0
 #支持私库
