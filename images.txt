@@ -1,2 +1,2 @@
-mayswind/ezbookkeeping:latest-snapshot
+fogforest/yesplaymusic:latest
 #支持私库
