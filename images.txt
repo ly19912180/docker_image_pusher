@@ -1,2 +1,2 @@
-portainer/portainer-ce:2.36.0
+mayswind/ezbookkeeping:latest-snapshot
 #支持私库
