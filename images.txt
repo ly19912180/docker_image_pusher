@@ -1,2 +1,2 @@
-fogforest/yesplaymusic:latest
+ghcr.io/advplyr/audiobookshelf:latest
 #支持私库
