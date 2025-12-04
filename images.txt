@@ -1,2 +1,3 @@
-ghcr.io/advplyr/audiobookshelf:latest
+shanyanwcx/abs-ximalaya:latest
+zqing90/audiobookshelf-provider-douban:latest
 #支持私库
