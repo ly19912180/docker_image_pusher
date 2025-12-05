@@ -1,3 +1,2 @@
-shanyanwcx/abs-ximalaya:latest
-zqing90/audiobookshelf-provider-douban:latest
+dullage/flatnotes:latest
 #支持私库
