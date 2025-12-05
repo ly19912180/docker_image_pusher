@@ -1,2 +1,3 @@
 b3log/siyuan:latest
+apkdv/siyuan-unlock:latest
 #支持私库
