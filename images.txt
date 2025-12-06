@@ -1,3 +1,2 @@
-b3log/siyuan:latest
-apkdv/siyuan-unlock:latest
+moelin/1panel:latest
 #支持私库
