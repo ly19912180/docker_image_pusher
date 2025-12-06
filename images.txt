@@ -1,2 +1,2 @@
-openresty/openresty:latest
+openresty/openresty:1.21.4.3-3-focal
 #支持私库
