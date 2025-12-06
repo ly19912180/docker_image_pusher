@@ -1,2 +1,2 @@
-openresty/openresty:1.21.4.3-3-focal
+triliumnext/trilium:latest
 #支持私库
