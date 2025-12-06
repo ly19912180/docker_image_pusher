@@ -1,2 +1,2 @@
-moelin/1panel:latest
+openresty/openresty:latest
 #支持私库
