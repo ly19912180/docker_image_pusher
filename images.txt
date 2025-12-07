@@ -1,2 +1,2 @@
-xhongc/music_tag_web:latest
+deluan/navidrome:latest
 #支持私库
