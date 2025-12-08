@@ -1,2 +1,3 @@
-onlyoffice/documentserver:latest
+rabbitmq
+postgres:12
 #支持私库
