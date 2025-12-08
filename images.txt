@@ -1,2 +1,2 @@
-deluan/navidrome:latest
+onlyoffice/documentserver:latest
 #支持私库
