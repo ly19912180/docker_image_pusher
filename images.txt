@@ -1,3 +1,2 @@
-rabbitmq
-postgres:12
+keking/kkfileview:latest
 #支持私库
