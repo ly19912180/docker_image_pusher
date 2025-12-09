@@ -1,2 +1,2 @@
-neosmemo/memos:canary
+neosmemo/memos:0.18.2
 #支持私库
