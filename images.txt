@@ -1,2 +1,2 @@
-keking/kkfileview:latest
+neosmemo/memos:canary
 #支持私库
