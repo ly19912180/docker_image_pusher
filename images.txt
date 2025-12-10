@@ -1,2 +1,2 @@
-linuxserver/qbittorrent:latest
+guovern/iptv-api:latest
 #支持私库
