@@ -1,2 +1,2 @@
-guovern/iptv-api:latest
+oaooa/pichome:latest
 #支持私库
