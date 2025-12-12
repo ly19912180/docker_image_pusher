@@ -1,2 +1,2 @@
-oaooa/pichome:2.0.2
+oaooa/pichome:1.1
 #支持私库
