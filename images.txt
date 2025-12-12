@@ -1,2 +1,2 @@
-oaooa/pichome:latest
+linuxserver/mariadb:latest
 #支持私库
