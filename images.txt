@@ -1,2 +1,2 @@
-mysql:5.7
+gotson/komga:latest
 #支持私库
