@@ -1,3 +1,2 @@
-ghcr.io/suwayomi/suwayomi-server:preview
-ghcr.io/thephaseless/byparr:latest
+matrixseven/file-transfer-go:latest
 #支持私库
