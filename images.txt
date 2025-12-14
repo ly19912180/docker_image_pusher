@@ -1,2 +1,2 @@
-gotson/komga:latest
+ghcr.io/suwayomi/suwayomi-server:preview
 #支持私库
