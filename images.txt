@@ -1,2 +1,2 @@
-oaooa/pichome:1.1
+mysql:5.7
 #支持私库
