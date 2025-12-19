@@ -1,2 +1,2 @@
-matrixseven/file-transfer-go:latest
+ghcr.io/wttwins/wrong-notebook:latest
 #支持私库
