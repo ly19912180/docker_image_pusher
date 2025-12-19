@@ -1,2 +1,2 @@
-ghcr.io/wttwins/wrong-notebook:latest
+ghcr.io/tgragnato/magnetico:latest
 #支持私库
