@@ -1,2 +1,2 @@
-docker.1ms.run/ieax/renewhelper:latest
+ieax/renewhelper:latest
 #支持私库
