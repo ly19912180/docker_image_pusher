@@ -1,2 +1,2 @@
-ghcr.io/tgragnato/magnetico:latest
+docker.1ms.run/ieax/renewhelper:latest
 #支持私库
