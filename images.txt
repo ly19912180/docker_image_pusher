@@ -1,2 +1,2 @@
-ieax/renewhelper:latest
+nextcloud/all-in-one:latest
 #支持私库
