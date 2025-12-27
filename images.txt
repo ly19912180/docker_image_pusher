@@ -1,2 +1,2 @@
-redis:latest
+mariadb:10.6
 #支持私库
