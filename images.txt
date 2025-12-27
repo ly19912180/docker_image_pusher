@@ -1,2 +1,2 @@
-nextcloud/all-in-one:latest
+cloudreve/cloudreve:latest
 #支持私库
