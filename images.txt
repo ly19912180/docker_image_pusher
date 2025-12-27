@@ -1,2 +1,3 @@
 cloudreve/cloudreve:latest
+ddsderek/aria2-pro:nightly
 #支持私库
