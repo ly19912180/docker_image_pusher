@@ -1,2 +1,2 @@
-mariadb:10.6
+kodcloud/kodbox:latest
 #支持私库
