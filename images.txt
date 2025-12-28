@@ -1,2 +1,2 @@
-filebrowser/filebrowser:latest
+hurlenko/filebrowser:latest
 #支持私库
