@@ -1,2 +1,2 @@
-kodcloud/kodbox:latest
+filebrowser/filebrowser:latest
 #支持私库
