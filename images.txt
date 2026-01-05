@@ -1,2 +1,2 @@
-filebrowser/filebrowser:latest
+jxxghp/moviepilot:latest
 #支持私库
