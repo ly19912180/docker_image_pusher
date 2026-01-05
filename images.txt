@@ -1,2 +1,3 @@
 jxxghp/moviepilot-v2:latest
+mzz2017/v2raya:latest
 #支持私库
