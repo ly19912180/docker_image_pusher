@@ -1,3 +1,2 @@
 jxxghp/moviepilot-v2:latest
-hectorqin/reader:openj9-latest
 #支持私库
