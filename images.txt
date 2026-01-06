@@ -1,3 +1,2 @@
-jxxghp/moviepilot-v2:latest
-mzz2017/v2raya:latest
+w12725/emby:4.8.11.0
 #支持私库
