@@ -1,2 +1,2 @@
-rongyunmu/mediahelp
+registry.cn-hangzhou.aliyuncs.com/rongyunmu/mediahelp:latest
 #支持私库
