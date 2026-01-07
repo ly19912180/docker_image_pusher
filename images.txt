@@ -1,3 +1,2 @@
-gravityle/hyperms:0.0.5
-gravityle/hyperms:0.0.4
+remedy5902/media_automator:latest
 #支持私库
