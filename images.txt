@@ -1,2 +1,2 @@
-remedy5902/media_automator:latest
+logvar/danmu-api:latest
 #支持私库
