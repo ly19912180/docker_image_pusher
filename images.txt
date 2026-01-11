@@ -1,3 +1,4 @@
 murongyun574/mh-private
 ddsderek/wxchat:latest
+lampon/omnibox:latest
 #支持私库
