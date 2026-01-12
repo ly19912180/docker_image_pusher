@@ -1,4 +1,5 @@
 murongyun574/mh-private
 ddsderek/wxchat:latest
 lampon/omnibox:latest
+snowdreamtech/frpc
 #支持私库
