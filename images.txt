@@ -2,5 +2,4 @@ murongyun574/mh-private
 ddsderek/wxchat:latest
 lampon/omnibox:latest
 snowdreamtech/frpc
-btpanel/baota:latest
 #支持私库
