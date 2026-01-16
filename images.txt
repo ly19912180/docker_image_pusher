@@ -3,4 +3,4 @@ ddsderek/wxchat:latest
 lampon/omnibox:latest
 snowdreamtech/frpc
 w12725/emby:4.9.3.0
-#支持私库
+#支持私库+
