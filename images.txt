@@ -1,4 +1,4 @@
-murongyun574/mh-private
+murongyun574/mh-private:latest
 ddsderek/wxchat:latest
 lampon/omnibox:latest
 snowdreamtech/frpc
