@@ -1,6 +1,3 @@
 murongyun574/mh-private:latest
-ddsderek/wxchat:latest
-lampon/omnibox:latest
-snowdreamtech/frpc
-w12725/emby:4.9.3.0
+heavrnl/telegramforwarder:latest
 #支持私库+
