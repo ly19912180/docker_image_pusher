@@ -1,3 +1,2 @@
-murongyun574/mh-private:latest
 logvar/danmu-api:latest
 # 支持私库+
