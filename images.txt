@@ -1,3 +1,4 @@
 murongyun574/mh-private:latest
 mdcng/mdc:latest
+ogvar/danmu-api:latest
 #支持私库+
