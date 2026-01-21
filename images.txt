@@ -1,4 +1,3 @@
 murongyun574/mh-private:latest
-mdcng/mdc:latest
 logvar/danmu-api:latest
 #支持私库+
