@@ -1,2 +1,2 @@
-logvar/danmu-api:latest
+jxxghp/moviepilot-v2:latest
 # 支持私库+
