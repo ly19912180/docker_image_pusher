@@ -1,2 +1,2 @@
-dbonline/db_online:latest
+postgres:16-alpine
 # 支持私库+
