@@ -1,2 +1,2 @@
-jxxghp/moviepilot-v2:latest
+dbonline/db_online:latest
 # 支持私库+
