@@ -1,2 +1,2 @@
-mdcng/mdc:latest
+murongyun574/mh-private:latest
 # 支持私库+
