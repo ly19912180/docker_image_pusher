@@ -1,2 +1,3 @@
 murongyun574/mh-private:latest
+bentopdf/bentopdf:latest
 # 支持私库+
