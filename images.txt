@@ -1,4 +1,5 @@
 murongyun574/mh-private:latest
 miaona/mhss:latest
 jxxghp/moviepilot-v2:latest
+shiningth/article-master:latest
 # 支持私库+
