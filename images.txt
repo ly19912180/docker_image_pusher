@@ -14,4 +14,5 @@ miaona/mhss:latest
 deluan/navidrome:develop
 openlistteam/openlist:beta-aio
 mzz2017/v2raya:latest
+cloudnas/clouddrive2:latest
 # 支持私库++
