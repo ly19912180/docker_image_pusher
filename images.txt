@@ -5,4 +5,5 @@ shiningth/article-master:latest
 dbonline/db_online:latest
 flaresolverr/flaresolverr:latest
 envyafish/byte-muse:latest
+lampon/omnibox:latest
 # 支持私库++
