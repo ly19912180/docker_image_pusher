@@ -6,4 +6,11 @@ dbonline/db_online:latest
 flaresolverr/flaresolverr:latest
 envyafish/byte-muse:latest
 lampon/omnibox:latest
+logvar/danmu-api:latest
+joplin/server:latest
+gdy666/lucky:v2
+mdcng/mdc:latest
+miaona/mhss:latest
+deluan/navidrome:develop
+openlistteam/openlist:beta-aio
 # 支持私库++
