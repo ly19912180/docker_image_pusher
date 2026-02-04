@@ -2,6 +2,7 @@ murongyun574/mh-private:latest
 miaona/mhss:latest
 jxxghp/moviepilot-v2:latest
 shiningth/article-master:latest
+leolitaly/article:latest
 dbonline/db_online:latest
 flaresolverr/flaresolverr:latest
 envyafish/byte-muse:latest
