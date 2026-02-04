@@ -17,4 +17,5 @@ openlistteam/openlist:beta-aio
 mzz2017/v2raya:latest
 cloudnas/clouddrive2:latest
 murongyun574/mh-private:test
+python:latest
 # 支持私库+++
