@@ -18,4 +18,5 @@ mzz2017/v2raya:latest
 cloudnas/clouddrive2:latest
 murongyun574/mh-private:test
 python:latest
+portainer/portainer-ce:2.38.0-alpine
 # 支持私库+++
