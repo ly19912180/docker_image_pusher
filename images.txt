@@ -3,6 +3,7 @@ miaona/mhss:latest
 jxxghp/moviepilot-v2:latest
 shiningth/article-master:latest
 leolitaly/article:latest
+envyafish/immortal:test
 dbonline/db_online:latest
 flaresolverr/flaresolverr:latest
 envyafish/byte-muse:latest
