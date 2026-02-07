@@ -1,3 +1,2 @@
-envyafish/byte-muse:latest
-mdcng/mdc:latest
+lincolnpark2000/strm-cover-generator
 # 支持私库++++
