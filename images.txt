@@ -1,6 +1,2 @@
-mdcng/mdc:latest
-murongyun574/mh-private:latest
-envyafish/immortal:test
-dbonline/db_online:latest
-logvar/danmu-api:latest
+qq918652593/easy-vdl:latest
 # 支持私库++++
