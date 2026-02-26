@@ -1,2 +1,2 @@
-docker pull leolitaly/avdb:latest
+leolitaly/avdb:latest
 # 支持私库++++
