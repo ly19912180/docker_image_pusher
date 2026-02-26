@@ -1,6 +1,2 @@
-dbonline/db_online:latest
-envyafish/immortal:test
-logvar/danmu-api:latest
-mdcng/mdc:latest
-murongyun574/mh-private:latest
+docker pull leolitaly/avdb:latest
 # 支持私库++++
