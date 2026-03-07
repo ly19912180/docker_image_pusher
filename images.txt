@@ -1,2 +1,2 @@
-chigusa/bililive-go:v0.8.0-rc.4
+lincolnpark2000/mediasync:latest
 # 支持私库++++
