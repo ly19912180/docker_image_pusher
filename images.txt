@@ -1,2 +1,2 @@
 lincolnpark2000/mediasync:latest
-# 支持私库++waas
+# 支持私库++waa
