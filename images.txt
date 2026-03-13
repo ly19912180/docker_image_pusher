@@ -1,2 +1,2 @@
 lincolnpark2000/mediasync:latest
-# 支持私库耳
+# 支持私库耳人大
