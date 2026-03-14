@@ -1,2 +1,2 @@
-lincolnpark2000/mediasync:latest
+logvar/danmu-api:latest
 # 支持私库耳人大
