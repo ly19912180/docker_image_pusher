@@ -1,3 +1,4 @@
 lincolnpark2000/musicsync:latest
 ghcr.io/xcq0607/lxserver:latest
+lyswhut/lx-music-sync-server:latest
 # 支持私库耳人大++++
