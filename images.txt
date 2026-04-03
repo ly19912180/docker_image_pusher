@@ -1,3 +1,2 @@
-louislam/dockge:nightly
-cloudnas/clouddrive2:latest
+logvar/danmu-api:latest
 # 支持私库耳人大++++
