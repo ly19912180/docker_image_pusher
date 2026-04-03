@@ -1,2 +1,2 @@
-logvar/danmu-api:latest
+ghcr.io/flaresolverr/flaresolverr:latest
 # 支持私库耳人大++++
