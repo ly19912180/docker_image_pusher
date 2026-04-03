@@ -1,2 +1,2 @@
-ghcr.io/fish2018/pansou-web:latest
+jxxghp/moviepilot-v2:latest
 # 支持私库耳人大++++
