@@ -1,2 +1,2 @@
-linuxserver/qbittorrent
+w12725/emby:4.9.3.0
 # 支持私库耳人大++++
