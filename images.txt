@@ -1,2 +1,3 @@
 louislam/dockge:nightly
+cloudnas/clouddrive2:latest
 # 支持私库耳人大++++
