@@ -1,2 +1,2 @@
-murongyun574/mh-private
+openlistteam/openlist:latest
 # 支持私库耳人大++++
