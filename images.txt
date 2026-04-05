@@ -1,2 +1,2 @@
-openlistteam/openlist:latest
+xhofe/alist:latest
 # 支持私库耳人大++++
