@@ -1,2 +1,3 @@
 lincolnpark2000/mediasync:latest
+lincolnpark2000/musicsync:latest
 # 支持私库耳人大++++
