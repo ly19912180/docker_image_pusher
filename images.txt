@@ -1,3 +1,2 @@
-lincolnpark2000/musicsync:test
-xcq0607/lxserver:latest
+lincolnpark2000/mediasync:latest
 # 支持私库耳人大+aa++
