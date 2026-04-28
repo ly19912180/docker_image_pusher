@@ -1,2 +1,3 @@
 lincolnpark2000/mediasync:latest
+xcq0607/lxserver:v1.9.2
 # 支持私库耳人大+aa+
