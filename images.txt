@@ -1,4 +1,2 @@
-lincolnpark2000/mediasync:latest
-xcq0607/lxserver:v1.9.2
-hectorqin/reader:latest
+dbonline/db_online:latest
 # 支持私库耳人大+aa+
