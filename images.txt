@@ -1,3 +1,4 @@
 dbonline/db_online:latest
 murongyun574/mh-private:latest
+miaona/mhss:latest
 # 支持私库耳人大+aa+
