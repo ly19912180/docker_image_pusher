@@ -11,4 +11,5 @@ ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 docker.io/redis:6.2-alpine
 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
+lincolnpark2000/musicsync:latest
 # 支持私库耳人大+aa+
