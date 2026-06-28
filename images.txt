@@ -5,4 +5,5 @@ flaresolverr/flaresolverr:latest
 mdcng/mdc:latest
 leolitaly/avdb:latest
 jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:2.13.14
 # 支持私库耳人大+a
