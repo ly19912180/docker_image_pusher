@@ -1,2 +1,2 @@
-jxxghp/moviepilot-v2:latest
+murongyun574/mh-private:latest
 # 支持私库耳人大+aa
