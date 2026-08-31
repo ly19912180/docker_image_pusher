@@ -1,2 +1,4 @@
 jxxghp/moviepilot-v2:latest
+logvar/danmu-api:latest
+flaresolverr/flaresolverr:latest
 # 支持私库耳人大+aa
