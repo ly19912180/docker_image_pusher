@@ -1,3 +1,2 @@
-logvar/danmu-api:latest
-leolitaly/avdb:latest
+hectorqin/reader-pro:latest
 # 支持私库耳人大+aaaaa
