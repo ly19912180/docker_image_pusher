@@ -1,2 +1,2 @@
-dbonline/db_online:latest
+jxxghp/moviepilot-v3:latest
 # 支持私库耳人大+aaaaa
