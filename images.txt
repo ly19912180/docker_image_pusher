@@ -1,2 +1,2 @@
-jxxghp/moviepilot-v3:latest
+logvar/danmu-api:latest
 # 支持私库耳人大+aaaaa
